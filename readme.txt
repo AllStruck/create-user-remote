@@ -21,7 +21,7 @@ This plugin requires PHP 5 or greater.
 
 = Setup =
 
-After activating the plugin a new menu under Settings will appear called 'Create User Remote'. Here you can enter a Handshake Key (to protect against erroneous form entry / user creation) and map each of the currently available standard user fields or meta fields to incoming Wufoo form field names. These Wufoo field names can be acquired by first pointing the WebHooks notification in Wufoo to the postbin.org site as instructed by Wufoo (you will need to use a sample submission sent there to determine the names of the mapped fields). 
+After activating the plugin a new menu under Users will appear called 'Create User Remote'. Here you can enter a Handshake Key (to protect against erroneous form entry / user creation) and map each of the currently available standard user fields or meta fields to incoming Wufoo form field names. These Wufoo field names can be acquired by first pointing the WebHooks notification in Wufoo to the postbin.org site as instructed by Wufoo (you will need to use a sample submission sent there to determine the names of the mapped fields). 
 
 == Installation ==
 
