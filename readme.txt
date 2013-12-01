@@ -1,6 +1,6 @@
 === Create User Remote ===
 Contributors: allstruck
-Donate link: http://create-user-remote.allstruck.com/
+Donate link: paypal@allstruck.com
 Tags: webhook, wufoo, form, user, new, add, create, remote, webservice, web-service, hook, callback, webhooks
 Requires at least: 3.0
 Tested up to: 3.1
@@ -33,7 +33,7 @@ Needs PHP5.
 
 = Where should I ask questions? =
 
-http://create-user-remote.allstruck.com
+Email create-user-remote@allstruck.com
 
 == Screenshots ==
 
